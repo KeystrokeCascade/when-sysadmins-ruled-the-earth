@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="calibre" id="calibre_id">1e3b53d9-0a6c-47bb-931e-4552d8f4f251</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">7b7bc2bd-150e-481f-ab11-cbcaade54d66</dc:identifier>
+    <dc:title>When Sysadmins Ruled the Earth</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Cory Doctorow</dc:creator>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>eng</dc:language>
+    <meta name="cover" content="id3"/>
+  </metadata>
+  <manifest>
+    <item href="text/title.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles/style.css" id="id" media-type="text/css"/>
+    <item href="text/chapter1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="text/license.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="images/cover.png" id="id3" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="start"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="images/cover.png" type="cover"/>
+  </guide>
+</package>

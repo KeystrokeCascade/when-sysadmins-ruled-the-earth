@@ -1,0 +1,21 @@
+body {
+  word-wrap: break-word;
+}
+h1 {
+  font-style: italic;
+  font-weight: normal;
+}
+.break {
+  text-align: center;
+}
+.irc {
+  font-family: monospace;
+}
+li {
+  list-style: none;
+}
+li:before {
+  content: "*";
+  margin-left: -20px;
+  margin-right: 10px;
+}
