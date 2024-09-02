@@ -3,6 +3,8 @@ When multiple terrorist acts bring the world to its knees, the future of mankind
 
 ---
 
-The epub available on Cory Doctorow's website is outdated and in my opinion very hard to read, so I decided to try and make my own.
+.epub version of When Sysadmins Ruled the Earth by Cory Doctorow.
 
-Made using Calibre and cover designed by me.
+---
+
+Created using Calibre for constructing the .epub and GIMP for designing the cover.
